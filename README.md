@@ -1,6 +1,6 @@
 # Temperature_Controlled_Fan_System_using_2MCUs
-Temperature Controls the Fan speed ,the lights and the machine
-<br> First MUC reads the state from EEPROM and the temperature from temperature sensor then send them to the other MUC. 
+* Temperature Controls the Fan speed ,the lights and the machine
+* First MUC reads the state from EEPROM and the temperature from temperature sensor then send them to the other MUC. 
 
 ### We have 2 states:
 #### 1.Normal state:
