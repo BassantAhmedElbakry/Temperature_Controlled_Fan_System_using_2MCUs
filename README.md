@@ -18,3 +18,4 @@
 * Buzzer is ON
 * Machine is OFF
 
+![WhatsApp Image 2023-09-07 at 14 09 38](https://github.com/BassantAhmedElbakry/Temperature_Controlled_Fan_System_using_2MCUs/assets/104600321/9bfd3b15-b11d-4c16-80c1-1ea2fa5222a9)
